@@ -1,4 +1,3 @@
-
 # Lern-Periode 1
 Name: Exemplibus Exemplio
 
@@ -6,37 +5,39 @@ Name: Exemplibus Exemplio
 
 ## Grob-Planung
 ### Noten
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Ich habe mein Abschlusszeugnis der Bez mit einem 4.4 abgeschlossen. Ich war schlecht in Deutsch und RZG. Jedoch war ich gut in mathe und Informatik
+Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig? Bis jetzt habe ich noch keine Noten bekommen.
 
 ### Veränderungen
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
-Mein Lernverhalten und konzentration.
+Bis jetzt läuft alles gut also nichts.
 
 ### Projekte / neue Technologien
 Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
-So viel wie möglich übers programmieren Lernen und über das Berufsleben.
+Programmieren.
+
 
 ### Generelle Ziele
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-Mein bestes geben um die besten Noten zu erreichen
+Ich habe im Modul 431 das Handlungsziel fertiggemacht.
 
 
-## 16.08.2024
+## 05.09.2024
 
 Heute habe ich... (50-100 Wörter)
-Ich habe weiter an den Modulen gearbeitet. Dazu habe ich noch den LB test gemacht und habe gut verstanden wie das funktioniert.
+Diese Lernperiode geschrieben, das Handlungsziel 1 im Modul 431 fertig gemacht und mit dem Klassenlehrer ein kennenlerngespräch geführt.
+Ich habe Powerpoints durch gelesen und verstanden.
 
-## Planung 23.08.2024
+## Planung 12.09.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket: Mission 4 bei Modul 319 weil es hausafgaben sind und dann noch ein bisschen weiter machen.
-- [ ] Zweites Arbeitspaket: Mission 6 bei Modul 431 machen und dann weiter Lösen.
-- [X] Viertes AP
+- [ ] Erstes Arbeitspaket: am Modul 319 weiter gemachr
+- [ ] Zweites Arbeitspaket: am Modul 431 weiter gemacht
+- [ ] Drittes Arbeitspaket: neue Lernperiode schreiben
 
 (Heute habe ich... (50-100 Wörter))
+Am Modul 319 und 431 weiter gemacht und so viel wie möglich fertig gemacht.
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
-Heute hab ich die Reflexion von letzter Woche gesehen, ich habe die Powerpoint zu den Lernperioden studiert, und habe eine mission beim Modul 319 Fertiggemacht. Natürlich auch diese Fragen beantwortet.
+Probiert so viel wie möglich zu lernen, zu verstehen und zu machen.
 
