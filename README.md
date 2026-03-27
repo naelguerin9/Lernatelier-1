@@ -1,43 +1,31 @@
-# Lern-Periode 1
-Name: Exemplibus Exemplio
+# Lern-Periode 2
 
-12.08.2024 bis 29.09.2024
 
 ## Grob-Planung
 ### Noten
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig? wir hatten einen Weitsprungtest und ich habe eine 5 erreicht
+Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?Meine Noten sind bis jetzt OK. Nicht wirklich gut aber auch nicht wirklich schlecht. Ich bin aber nicht wirklich zufrieden denn ich möchte bessere Noten. Ich muss mir vorallem mehr mühe in den Wirtschaftsfächern geben.
 
 ### Veränderungen
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
-Bis jetzt läuft alles gut also nichts.
+Meine Zeiteinschätzung und ich muss meine Zeit besser einplanen
 
 ### Projekte / neue Technologien
 Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
-Programmieren.
-
+Hack the Box
 
 ### Generelle Ziele
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-So viel wie möglich über die Basics vom Programmieren zu lernen sodass ich nachher komplexere sachen machen kann
+Ich möchte mehr über Cybersecurity lernen und wissen wie es Funktioniert
 
 
-## 05.09.2024
+## 27.03.2026
 
 Heute habe ich... (50-100 Wörter)
-Diese Lernperiode geschrieben, das Handlungsziel 1 im Modul 431 fertig gemacht und mit dem Klassenlehrer ein kennenlerngespräch geführt.
-Ich habe Powerpoints durch gelesen und verstanden.
+Mit Hack the Box angefangen. Ich habe das Einführungsmodul abgeschlossen bzw. Einstieg in Cybersecurity. Dabei habe ich über Docker kali genutzt und mich mit der Maschine von Hack the Box verbunden über ein VPN. Diese Maschine hiess aus irgend einen Grund meow. darin musste ich verschiedene Aufgaben lösen, die am anfang natürlich einfach sind.
 
-## Planung 12.09.2024
-3 bis 5 klar messbare Arbeitspakete.
-
-- [ ] Erstes Arbeitspaket: am Modul 319 weiter machen
-- [ ] Zweites Arbeitspaket: am Modul 431 weiter machen
-- [ ] Drittes Arbeitspaket: neue Lernperiode schreiben
-
-(Heute habe ich... (50-100 Wörter))
-Am Modul 319 und 431 weiter gemacht und so viel wie möglich fertig gemacht.
+## Planung 27.04.26
+Ich möchte weiter mit Hack the Box machen und alle Gratis module Abschliessen, sodass ich schon mal das grundwissen zu cybersecurity habe.
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
-Ich bin gut weiter gekommen und konnte wieder den Vorgeschlagenen Plan einholen, da ich letztes mal einbischen hintendrin war
 
+Ich habe mit unity ein kleines kurzes jump and run game programiert. Ich habe mit der Programmiersprache C# gearbeitet. Ich habe verschieden skripts gemacht und dabei habe ich viel gelernt
