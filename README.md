@@ -19,11 +19,11 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 Ich möchte mehr über Cybersecurity lernen und wissen wie es Funktioniert
 
 
-## 24.04.2026
+## 08.05.2026
 
 Heute habe ich... (50-100 Wörter)
-Mit dem neuen Arduino Uno das wir bekommen haben einbischen ausprobiert wie die LED matrix funktioniert und ein Programm geschrieben dass mit diesen LEDs ein text aus gibt.
+weiter mit hack the box gemacht und ein neues modul erledigt
 
-## Planung 7.05.26
-Ich möchte weiter mit Hack the Box machen und alle Gratis module Abschliessen, sodass ich schon mal das grundwissen zu cybersecurity habe, und ich möchte mehr über Arduino lernen und am schluss den Ad-blocker machen
+## Planung 22.05.26
+Ich möchte weiter mit Hack the Box machen und alle Gratis module Abschliessen, sodass ich schon mal das grundwissen zu cybersecurity habe, und ich möchte mehr über Arduino lernen und am schluss den Ad-blocker machen.
 
