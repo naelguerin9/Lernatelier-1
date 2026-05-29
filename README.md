@@ -4,7 +4,7 @@
 ## Grob-Planung
 ### Noten
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Ich konnte mich endlich im Fach Rechnungswesen verbessern und habe meine bis jetzt beste Note erreicht
+Ich konnte mich endlich im Fach Rechnungswesen verbessern und habe meine bis jetzt beste Note erreicht. Ich habe mich in Informatik sehr stark verbessert und konnte zwei 6er und einen 5er
 
 ### Veränderungen
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
@@ -16,14 +16,13 @@ Ich möchte ein Ad Blocker auf das Arduino das wir bekommen haben machen. Ich m�
 
 ### Generelle Ziele
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-Ich möchte mehr über Cybersecurity lernen und wissen wie es Funktioniert
+Ich möchte mehr über Cybersecurity lernen und wissen wie es Funktioniert und meinen Addblocker auf dem Arduino programmieren.
 
 
-## 08.05.2026
+## 22.05.2026
 
-Heute habe ich... (50-100 Wörter)
-weiter mit hack the box gemacht und ein neues modul erledigt
+Heute habe ich weiter mit dem Addblocker gemacht. Ich habe mich dazu mehr Informiert und ein ziemlich langes Video dazu geschaut
 
-## Planung 22.05.26
+## Planung 29.05.26
 Ich möchte weiter mit Hack the Box machen und alle Gratis module Abschliessen, sodass ich schon mal das grundwissen zu cybersecurity habe, und ich möchte mehr über Arduino lernen und am schluss den Ad-blocker machen.
 
