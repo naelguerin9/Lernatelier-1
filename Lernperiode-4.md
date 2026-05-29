@@ -4,7 +4,7 @@
 ## Grob-Planung
 ### Noten
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Ich konnte mich endlich im Fach Rechnungswesen verbessern und habe meine bis jetzt beste Note erreicht. Ich habe mich in Informatik sehr stark verbessert und konnte zwei 6er und einen 5er
+Ich konnte mich endlich im Fach Rechnungswesen verbessern und habe meine bis jetzt beste Note erreicht. Ich habe mich in Informatik sehr stark verbessert und konnte zwei 6er und einen 5er, ich konnte mich in deutsch sehr stark verbessern. Ich habe in einer Präsentation eine 5 erreicht.
 
 ### Veränderungen
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
@@ -19,10 +19,13 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 Ich möchte mehr über Cybersecurity lernen und wissen wie es Funktioniert und meinen Addblocker auf dem Arduino programmieren.
 
 
-## 22.05.2026
+## 29.05.2026
 
-Heute habe ich weiter mit dem Addblocker gemacht. Ich habe mich dazu mehr Informiert und ein ziemlich langes Video dazu geschaut
+Heute habe ich weiter mit hack the box gemacht. Ich habe nochmals zum repetieren die Box Meow durch gemacht und habe jetzt mit einer schwierigeren Box gestartet
 
-## Planung 29.05.26
-Ich möchte weiter mit Hack the Box machen und alle Gratis module Abschliessen, sodass ich schon mal das grundwissen zu cybersecurity habe, und ich möchte mehr über Arduino lernen und am schluss den Ad-blocker machen.
+## Planung 05.06.26
+Ich möchte nächstes mal die neue Box abschliessen. Generell weiter mit hack th box academy machen.
+
+## Reflexion
+Heute habe ich ziemlich gut und effizient gearbeitet. Ich habe mir noch dabei in der Pause zum beispiel überlegen können was genau ich im Projekt machen werde vom Modul 122.
 
