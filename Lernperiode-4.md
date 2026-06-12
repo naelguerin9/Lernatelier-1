@@ -1,5 +1,6 @@
 # Lern-Periode 4
-#Nael Guerin
+Name: Nael Guerin
+12.06.2026 bis 19.06.2026
 
 ## Grob-Planung
 ### Noten
@@ -8,23 +9,24 @@ Ich konnte mich endlich im Fach Rechnungswesen verbessern und habe meine bis jet
 
 ### Veränderungen
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
-Meine Zeiteinschätzung und ich muss meine Zeit besser einplanen. Ich habe mich darin schon verbessert
+Meine Zeiteinschätzung und ich muss meine Zeit besser einplanen. Ich habe mich darin schon verbessert.
 
 ### Projekte / neue Technologien
 Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
-Ich möchte ein Ad Blocker auf das Arduino das wir bekommen haben machen. Ich möchte nebenbei noch weiter mit cybersecurity bzw. Hack the Box machen.
+Ich möchte ein kleines einfaches Roblox Spiel programmieren und dabei die dazugehörige Programmiersprache Lua lernen. Ich möchte nebenbei noch weiter mit cybersecurity bzw. Hack the Box machen.
 
 ### Generelle Ziele
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-Ich möchte mehr über Cybersecurity lernen 
+Ich möchte mehr über Cybersecurity lernen, und mein erstes kleines Spiel programmieren
 
-## 05.05.2026
+## 012.05.2026
 
-Heute habe ich weiter mit hack the box gemacht. Ich habe eine neue Box angefangen. Sie war ziemlich schwer aber mit einwenig googeln habe ich es geschaft.
+Heute habe ich zum ersten mal einbischen Lua geschrieben. Angeblich sollte es eine einfache Sprache sein also kann ich das gut lernen.
 
-## Planung 12.06.26
-Ich möchte nächstes mal die neue Box abschliessen. Generell weiter mit hack th box academy machen.
+## Planung 19.06.26
+Ich möchte nächstes mal weiter machen mit der neuen Programmiersprache weiter machen.
 
 ## Reflexion
 Heute habe ich ziemlich gut und effizient gearbeitet. Ich habe mir in der Pause beim Automaten bedient und es war erfrischend.
+Die neue Programiere sprache finde ich spannend.
 
