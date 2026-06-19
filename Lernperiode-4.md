@@ -5,7 +5,7 @@ Name: Nael Guerin
 ## Grob-Planung
 ### Noten
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Ich konnte mich endlich im Fach Rechnungswesen verbessern und habe meine bis jetzt beste Note erreicht. Ich habe mich in Informatik sehr stark verbessert und konnte zwei 6er und einen 5er, ich konnte mich in deutsch sehr stark verbessern. Ich habe in einer Präsentation eine 5 erreicht. Wir haben heute einen Aufsatz geschrieben und ich war ziemlich gut.
+Ich konnte mich endlich im Fach Rechnungswesen verbessern und habe meine bis jetzt beste Note erreicht. Ich habe mich in Informatik sehr stark verbessert und konnte zwei 6er und einen 5er, ich konnte mich in deutsch sehr stark verbessern. Heute habe ich meine Aufsatz zurückbekommen und war einer der besten, meinen durschnitt hat sich von einer 4.5 zu einer 5 verbessert
 
 ### Veränderungen
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
@@ -19,14 +19,14 @@ Ich möchte ein kleines einfaches Roblox Spiel programmieren und dabei die dazug
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 Ich möchte mehr über Cybersecurity lernen, und mein erstes kleines Spiel programmieren
 
-## 012.05.2026
+## 019.05.2026
 
-Heute habe ich zum ersten mal einbischen Lua geschrieben. Angeblich sollte es eine einfache Sprache sein also kann ich das gut lernen.
+Heute habe ich weiter gemacht mit meinem Roblox spiel bzw. weiter die Lua sprache gelernt um das Programm fürs Spiel zu schreiben
 
-## Planung 19.06.26
-Ich möchte nächstes mal weiter machen mit der neuen Programmiersprache weiter machen.
+## Planung 26.06.26
+Ich möchte nächstes mal weiter machen mit der neuen Programmiersprache.
 
 ## Reflexion
 Heute habe ich ziemlich gut und effizient gearbeitet. Ich habe mir in der Pause beim Automaten bedient und es war erfrischend.
-Die neue Programiere sprache finde ich spannend.
+Die neue Programiere sprache finde ich spannend. Ich finde diese sprache mit der Zeit immer spannender.
 
