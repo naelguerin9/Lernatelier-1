@@ -26,8 +26,8 @@ Fundamentals von Linux lernen.
 ### Planung 14.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- Ich habe als erstes meine Box von HTB vom letzten mal fertig gelöst dazu habe ich kalilinux genutzt
-- Ich habe mich in das Linux fundamentals eingeschrieben und alles schon einmal durchgelesen und angeschaut
+- [] Ich habe als erstes meine Box von HTB vom letzten mal fertig gelöst dazu habe ich kalilinux genutzt
+- [] Ich habe mich in das Linux fundamentals eingeschrieben und alles schon einmal durchgelesen und angeschaut
   
 
 (Heute habe ich... (50-100 Wörter))
@@ -37,8 +37,8 @@ Meine Box von HTB fertig gelöst, dazu habe ich Kalilinux genutzt, zur hilfe wen
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- Weiter machen mit dem Linux Modul
-- Projekt idee finden fürs Arduiono uno
+- [X] Weiter machen mit dem Linux Modul
+- [X] Projekt idee finden fürs Arduiono uno
   
 
 (Heute habe ich... (50-100 Wörter))
