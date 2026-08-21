@@ -19,15 +19,15 @@ Ich möchte gerne etwas mit dem Arduiono uno machen aber ich weis noch nicht was
 
 ### Generelle Ziele
 > Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-Fundamentals von Linux lernen.
+Fundamentals von Linux lernen und ein Projekt mit dem Arduino uno machen.
 
 ## Tagesplanungen
 
 ### Planung 14.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] Ich habe als erstes meine Box von HTB vom letzten mal fertig gelöst dazu habe ich kalilinux genutzt
-- [] Ich habe mich in das Linux fundamentals eingeschrieben und alles schon einmal durchgelesen und angeschaut
+- [x] Ich habe als erstes meine Box von HTB vom letzten mal fertig gelöst dazu habe ich kalilinux genutzt
+- [x] Ich habe mich in das Linux fundamentals eingeschrieben und alles schon einmal durchgelesen und angeschaut
   
 
 (Heute habe ich... (50-100 Wörter))
@@ -38,17 +38,18 @@ Meine Box von HTB fertig gelöst, dazu habe ich Kalilinux genutzt, zur hilfe wen
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] Weiter machen mit dem Linux Modul
-- [X] Projekt idee finden fürs Arduiono uno
+- [] Projekt idee finden fürs Arduiono uno
   
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich nur am Linux fundamentals Modul von HTB Academy weiter gemacht, es hat mir viel spass gemacht und ich haben vieles neues gelernt. Ich habe mich auch noch für den cisco programming kurs entschieden und angemeldet.
 
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Weiter machen mit dem Linux modul
+- [ ] Idee finden fürs  Arduino
+
 
 (Heute habe ich... (50-100 Wörter))
 
