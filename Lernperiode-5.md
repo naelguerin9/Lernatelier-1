@@ -11,7 +11,7 @@ Ich bin bis jetzt eigentlich mit meinen Noten zufrieden, ich habe das  erste Jah
 
 ### Veränderungen
 > Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
-Meine Zeitplanung.
+Meine Zeitplanung und konzentrierter Arbeiten.
 
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
@@ -28,6 +28,7 @@ Fundamentals von Linux lernen und ein Projekt mit dem Arduino uno machen.
 
 - [x] Ich habe als erstes meine Box von HTB vom letzten mal fertig gelöst dazu habe ich kalilinux genutzt
 - [x] Ich habe mich in das Linux fundamentals eingeschrieben und alles schon einmal durchgelesen und angeschaut
+- [ ] Platzhalter
   
 
 (Heute habe ich... (50-100 Wörter))
@@ -38,7 +39,8 @@ Meine Box von HTB fertig gelöst, dazu habe ich Kalilinux genutzt, zur hilfe wen
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] Weiter machen mit dem Linux Modul
-- [] Projekt idee finden fürs Arduiono uno
+- [ ] Projekt idee finden fürs Arduiono uno
+- [ ] Platzhalter
   
 
 (Heute habe ich... (50-100 Wörter))
@@ -49,6 +51,7 @@ Heute habe ich nur am Linux fundamentals Modul von HTB Academy weiter gemacht, e
 
 - [X] Weiter machen mit dem Linux modul
 - [X] Idee finden fürs  Arduino
+- [X] PLatzhalter
 
 
 (Heute habe ich... (50-100 Wörter))
