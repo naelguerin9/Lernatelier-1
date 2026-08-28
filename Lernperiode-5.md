@@ -47,18 +47,20 @@ Heute habe ich nur am Linux fundamentals Modul von HTB Academy weiter gemacht, e
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Weiter machen mit dem Linux modul
+- [X] Weiter machen mit dem Linux modul
 - [ ] Idee finden fürs  Arduino
 
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich weitergemacht mit dem Linux Fundamentals Modul auf HTB academy, ich bin noch nicht ganz fertig geworden aber ich habe vieles neues und interessantes gelernt
 
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Linux Fundamentals Modul Abschliessen
+- [ ] Mindestens 3 Ideen finden für das Arduinoprojekt
+- [ ] Neues Modul in htb academy starten zu Linux
+
 
 (Heute habe ich... (50-100 Wörter))
 
