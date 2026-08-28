@@ -48,7 +48,7 @@ Heute habe ich nur am Linux fundamentals Modul von HTB Academy weiter gemacht, e
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] Weiter machen mit dem Linux modul
-- [ ] Idee finden fürs  Arduino
+- [X] Idee finden fürs  Arduino
 
 
 (Heute habe ich... (50-100 Wörter))
