@@ -11,7 +11,7 @@ Ich bin bis jetzt eigentlich mit meinen Noten zufrieden, ich habe das  erste Jah
 
 ### Veränderungen
 > Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
-Meine Zeitplanung und konzentrierter Arbeiten.
+Meine Zeitplanung.
 
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
@@ -61,18 +61,19 @@ Heute habe ich weitergemacht mit dem Linux Fundamentals Modul auf HTB academy, i
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Linux Fundamentals Modul Abschliessen
-- [ ] Mindestens 3 Ideen finden für das Arduinoprojekt
-- [ ] Neues Modul in htb academy starten zu Linux
+- [X] Mindestens 3 Ideen finden für das Arduinoprojekt
+- [X] Neues Modul in htb academy starten zu Linux
 
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich weitergemacht mit dem Linux Modul, Ich konnte leider nicht fertig werden weil ich mit den commands der naviagtion der files einwenig mühe hatte. Ich habe aber drei Ideen für das Arduino projekt gefunden: Ein Raumtemperatur-Dashboard, Ein Wifi siganl strength visualizer oder ein Ping Monitor. Nächste woche werde ich mich entscheiden.
 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Linux Modul endlich fertig machen
+- [ ] Arduino projekt wählen
+- [ ] Neues Modul anfangen
 
 (Heute habe ich... (50-100 Wörter))
 
