@@ -71,18 +71,18 @@ Heute habe ich weitergemacht mit dem Linux Modul, Ich konnte leider nicht fertig
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Linux Modul endlich fertig machen
-- [ ] Arduino projekt wählen
+- [X] Linux Modul endlich fertig machen
+- [X] Arduino projekt wählen
 - [ ] Neues Modul anfangen
 
 (Heute habe ich... (50-100 Wörter))
-
+Heute habe ich endlich das Linux fundamentals Modul fertig gemacht, als nächstes möchte ich mir Linux selber auf meinen Laptop holen ich habe mich schon für die distro cashy entschieden. Fürs Arduino Projekt habe ich mich schon entschieden, ich möchte ein Raumtemperatur-Dashboard machen.
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Neues Modul Anfangen
+- [ ] Sich Informieren und Suchen für das Projekt
+- [ ] Sich informieren und mindestens ein gutes video schauen wie ich das Dualboot auf mein Laptop machen kann.
 
 (Heute habe ich... (50-100 Wörter))
 
