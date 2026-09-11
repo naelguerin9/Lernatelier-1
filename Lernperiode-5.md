@@ -10,8 +10,8 @@
 Ich bin bis jetzt eigentlich mit meinen Noten zufrieden, ich habe das  erste Jahr mit einem 4.6 durschnitt bzw 4.8 EFZ durchschnitt abgeschlossen.
 
 ### Veränderungen
-> Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
-Meine Zeitplanung.
+> Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?s
+Ich möchte meine Zeitplanung verbessern.
 
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
