@@ -77,6 +77,7 @@ Heute habe ich weitergemacht mit dem Linux Modul, Ich konnte leider nicht fertig
 
 (Heute habe ich... (50-100 Wörter))
 Heute habe ich endlich das Linux fundamentals Modul fertig gemacht, als nächstes möchte ich mir Linux selber auf meinen Laptop holen ich habe mich schon für die distro cashy entschieden. Fürs Arduino Projekt habe ich mich schon entschieden, ich möchte ein Raumtemperatur-Dashboard machen.
+
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
