@@ -11,7 +11,7 @@ Ich bin bis jetzt eigentlich mit meinen Noten zufrieden, ich habe das  erste Jah
 
 ### Veränderungen
 > Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?s
-Ich möchte meine Zeitplanung verbessern.
+Ich möchte meine Zeitplanung verbessern, und besser einschätzen können.
 
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
@@ -80,18 +80,19 @@ Heute habe ich endlich das Linux fundamentals Modul fertig gemacht, als nächste
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Neues Modul Anfangen
-- [ ] Sich Informieren und Suchen für das Projekt
-- [ ] Sich informieren und mindestens ein gutes video schauen wie ich das Dualboot auf mein Laptop machen kann.
+- [X] Neues Modul Anfangen
+- [X] Sich Informieren und Suchen für das Projekt
+- [X] Sich informieren und mindestens ein gutes video schauen wie ich das Dualboot auf mein Laptop machen kann.
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich ein neues Linux Modul angefangen, ich habe gelernt das ich mit VIM dateien editieren kann. Ich habe dabei noch einbischen mühe und habe heute auch viel zeit dabei verbraucht. Ich glaube es ist noch einbischen zu früh um ein dualboot zu machen also verschiebe ich das bis ich Linux im allgemeinen mehr verstehe.
 
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Am Linux Modul weiter Arbeiten
+- [ ] Für das Projekt weiter lernen und mindestens 1 Video zu Arduino schauen
+- [ ]OOP repetieren weil ich es noch nicht ganz verstehe 
 
 (Heute habe ich... (50-100 Wörter))
 
