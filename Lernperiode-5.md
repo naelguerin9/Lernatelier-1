@@ -11,7 +11,7 @@ Ich bin bis jetzt eigentlich mit meinen Noten zufrieden, ich habe das  erste Jah
 
 ### Veränderungen
 > Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?s
-Ich möchte meine Zeitplanung verbessern, und besser einschätzen können.
+Ich möchte meine Zeitplanung verbessern/besser einschätzen können.
 
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
@@ -91,11 +91,13 @@ Heute habe ich ein neues Linux Modul angefangen, ich habe gelernt das ich mit VI
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Am Linux Modul weiter Arbeiten
-- [ ] Für das Projekt weiter lernen und mindestens 1 Video zu Arduino schauen
-- [ ]OOP repetieren weil ich es noch nicht ganz verstehe 
+- [X] Am Linux Modul weiter Arbeiten
+- [X] Für das Projekt weiter lernen und mindestens 1 Video zu Arduino schauen
+- [X]OOP repetieren weil ich es noch nicht ganz verstehe 
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich als erstes beim Linux Modul weitergemacht und habe endlich verstanden wie das VIM funktioniert. Als nächstes habe ich mich schlauer gemacht für mein Arduino prjekt und habe ein gutes aber ziemlich langes Video geschaut. Zum Schluss habe ich noch einpaar aufgaben zum C# OOP gemacht in der Cisco Academy was mir viel geholfen hat
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+Die Basics vom brauchen von Linux gelernt und möchte in der nächsten Lernperiode weiter damit machen. Ich habe mir einpaar Videos angeschaut und gelesen wie man das Arduino Uno programmiert sodass ich als nächstes mein Projekt anfangen kann. Die Basics zu Linux zu lernen hat mir am meisten Spass gemacht weil ich mir schon ein ziemlich gutes anfänger Modul ausgesucht hatte und ich habe auch am meisten Zeit damit verbracht in dieser Lernperiode.
