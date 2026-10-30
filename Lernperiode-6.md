@@ -75,9 +75,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Am Linux Modul weiterarbeiten
+- [X] Am Linux Modul weiterarbeiten
 - [ ] Fürs Aurduino im Internet weiter schauen und mindestens ein video schauen
-- [ ] Mit Python anfangen und im Internet nachschauen wie ich gut in diese sprache rein starten kann
+- [X] Mit Python anfangen und im Internet nachschauen wie ich gut in diese sprache rein starten kann
 
 
 #### Tagesreflexion
@@ -88,19 +88,15 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich weiter gemacht mit dem Modul und bin gut weiter gekommen. Ich hatte am anfang probleme mich mit der HTB Maschine zu verbinden aber danach ging es. Anschliessen habe ich mich schlau gemacht wie ich am besten mit Python starten kann. Leider habe ich vergessen bzw. am schluss keine Zeit mehr gehabt für das Arduino Projekt ein Video zu schauen.
 
-
-<!--
-Fügen Sie hier die weiteren Tage der Lernperiode ein.
--->
 
 ### Planung 06.11.2026
 
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Am Linux Modul weiter arbeit und mindestens 2 kapitel abschliessen
+- [ ] Eine gute webseite wie cisco zb finden um ein Modul zu python zu starten
+- [ ] Nachschauen wie ich ein dualboot einrichten kann
 
 
 #### Tagesreflexion
