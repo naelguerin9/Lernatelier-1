@@ -104,25 +104,12 @@ Heute habe ich weiter gemacht mit dem Modul und bin gut weiter gekommen. Ich hat
 
 Heute habe ich drei Kapitel im Linux Modul Abschliessen können, das meiste war Theorie. Danach habe ich mich bei cisco angemeldet und mit dem Python Essentials Kurs angefangen.
 
-### Planung 13.11.2026
+### Planung 20.11.2026
 
 
 - [ ] Python Essentials Modul 1 abschliessen
 - [ ] Linux kurs von Htb academy zwei Kapitel abschliessen
 - [ ] Zwei Gute Videos zu Python schauen
-
-
-#### Tagesreflexion
-
-
-...Ihr Text...
-
-### Planung 20.11.2026
-
-
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
 
 
 #### Tagesreflexion
@@ -170,6 +157,19 @@ Heute habe ich drei Kapitel im Linux Modul Abschliessen können, das meiste war 
 ...Ihr Text...
 
 ### Planung 18.12.2026
+
+
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+
+
+#### Tagesreflexion
+
+
+...Ihr Text...
+
+### Planung 25.12.2026
 
 
 - [ ] ...Ihr Text...
