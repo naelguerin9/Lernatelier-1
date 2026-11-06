@@ -36,7 +36,7 @@ Ich bin bis jetzt eigentlich mit meinen Noten zufrieden. Ich habe in mathe eine 
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 -->
 
-Nichts
+Den Morgen Abwechslungsreicher machen also verschiedene sachen machen.
 
 ### Projekte / neue Technologien
 <!--
@@ -76,7 +76,7 @@ Beispiele:
 -->
 
 - [X] Am Linux Modul weiterarbeiten
-- [ ] Fürs Aurduino im Internet weiter schauen und mindestens ein video schauen
+- [X] Fürs Aurduino im Internet weiter schauen und mindestens ein video schauen
 - [X] Mit Python anfangen und im Internet nachschauen wie ich gut in diese sprache rein starten kann
 
 
@@ -94,22 +94,22 @@ Heute habe ich weiter gemacht mit dem Modul und bin gut weiter gekommen. Ich hat
 ### Planung 06.11.2026
 
 
-- [ ] Am Linux Modul weiter arbeit und mindestens 2 kapitel abschliessen
-- [ ] Eine gute webseite wie cisco zb finden um ein Modul zu python zu starten
-- [ ] Nachschauen wie ich ein dualboot einrichten kann
+- [X] Am Linux Modul weiter arbeit und mindestens 2 kapitel abschliessen
+- [X] Eine gute webseite wie cisco zb finden um ein Modul zu python zu starten
+- [X] Nachschauen wie ich ein dualboot einrichten kann
 
 
 #### Tagesreflexion
 
 
-...Ihr Text...
+Heute habe ich drei Kapitel im Linux Modul Abschliessen können, das meiste war Theorie. Danach habe ich mich bei cisco angemeldet und mit dem Python Essentials Kurs angefangen.
 
 ### Planung 13.11.2026
 
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Python Essentials Modul 1 abschliessen
+- [ ] Linux kurs von Htb academy zwei Kapitel abschliessen
+- [ ] Zwei Gute Videos zu Python schauen
 
 
 #### Tagesreflexion
