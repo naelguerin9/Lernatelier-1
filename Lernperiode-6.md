@@ -107,22 +107,22 @@ Heute habe ich drei Kapitel im Linux Modul Abschliessen können, das meiste war 
 ### Planung 20.11.2026
 
 
-- [ ] Python Essentials Modul 1 abschliessen
-- [ ] Linux kurs von Htb academy zwei Kapitel abschliessen
-- [ ] Zwei Gute Videos zu Python schauen
+- [X] Python Essentials Modul 1 abschliessen
+- [X] Linux kurs von Htb academy zwei Kapitel abschliessen
+- [X] Zwei Gute Videos zu Python schauen
 
 
 #### Tagesreflexion
 
+Heute habe ich das meiste vom Morgen am python essentials Kurs gearbeitet. Ich habe Modul 1 abgeschlossen und starte somit nächste Woche mit Modul 2
 
-...Ihr Text...
 
 ### Planung 27.11.2026
 
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Python Modul zwei mindestens bis zur hälfte Arbeiten.
+- [ ] Am HTB Kurs zu Linux weiter machen.
+- [ ] Mindestens ein Modultest im Python Modul abschliessen.
 
 
 #### Tagesreflexion
